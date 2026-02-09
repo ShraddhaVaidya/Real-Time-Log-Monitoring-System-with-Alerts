@@ -1,0 +1,50 @@
+_pycache_/
+*.pyc
+.env
+*.log
+esdata/
+
+# Environment / Secrets
+
+.env
+mails.env
+.env.local
+.env.*
+
+# Python Cache / Build
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs / Output Files
+
+*.log
+*.json
+*.jsonl
+failed_logs.jsonl
+logs_*.json
+logs.json
+last_record.json
+
+# OS / Editor Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# Backup / Temp Files
+
+*.old
+*.bak
+*.tmp
+*.swp

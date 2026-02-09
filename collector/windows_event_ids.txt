@@ -1,0 +1,81 @@
+4624|Successful Logon
+4625|Failed Logon
+4634|Logoff
+4648|Logon attempt using explicit credentials
+4672|Special privileges assigned to new logon
+4688|Process created
+4719|System audit policy changed
+4720|User account created
+4722|User account enabled
+4723|Password change attempt
+4724|Password reset attempt
+4725|User account disabled
+4726|User account deleted
+4732|Member added to a security-enabled local group
+4740|Account locked out
+4768|A Kerberos authentication ticket (TGT) was requested
+4769|A Kerberos service ticket was requested
+4776|The domain controller attempted to validate the credentials for an account
+4794|An attempt was made to set the Directory Services Restore Mode password
+4799|A security-enabled local group membership was enumerated
+4848|A change has been made to Windows Defender Antivirus settings
+4946|A change has been made to Windows Defender Antivirus settings
+4948|A change has been made to Windows Defender Antivirus settings
+4956|A change has been made to Windows Defender Antivirus settings
+5024|Windows Firewall settings have changed
+5033|Windows Firewall has blocked an application from accepting incoming connections
+5140|A network share object was accessed
+5145|A network share object was checked to see whether client can be granted desired access
+5156|The Windows Filtering Platform has permitted a connection
+5157|The Windows Filtering Platform has blocked a connection
+5158|The Windows Filtering Platform has permitted a bind to a local port
+5159|The Windows Filtering Platform has blocked a bind to a local port
+41|The system has rebooted without cleanly shutting down first
+6005|The Event log service was started
+6006|The Event log service was stopped
+6008|The previous system shutdown was unexpected
+7036|The service entered the running state
+7037|The service entered the stopped state
+1001|Bugcheck has occurred
+1026|.NET Runtime error
+1027|.NET Runtime error
+1000|Application Error
+1001|Windows Error Reporting
+1026|.NET Runtime error
+1027|.NET Runtime error
+1004|Application Hang
+1005|Application Crash
+1000|Antivirus engine started
+1001|Antivirus engine stopped
+1116|Scan started
+1117|Scan completed
+1118|Scan failed
+1120|Threat detected
+1121|Threat action taken
+1122|Threat removed
+1123|Threat quarantined
+1124|Threat restored
+1125|Threat action failed
+7|Disk read error
+11|Disk controller error
+15|Disk not ready
+25|Write operation failed
+26|Write error
+51|Disk error
+55|File system structure corruption
+57|Delayed write failed
+3004|Kernel driver attempted to load with invalid signature
+3033|File blocked by App Control
+3034|File would have been blocked if policy was enforced
+3076|File blocked by App Control in audit mode
+3089|File signature information
+3090|File allowed based on ISG or managed installer
+3091|File not authorized by ISG or managed installer
+3092|File not authorized and policy is enforced
+8002|AppLocker rule matched for executable
+4618|A monitored security event pattern has occurred
+4649|A replay attack was detected
+4719|System audit policy was changed
+4765|SID History was added to an account
+4766|An attempt to add SID History to an account failed
+4794|An attempt was made to set the Directory Services Restore Mode password
